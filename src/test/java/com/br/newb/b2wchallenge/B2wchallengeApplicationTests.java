@@ -138,7 +138,7 @@ public class B2wchallengeApplicationTests {
     
 
 	private String createURLWithPort(String uri) {
-		return "http://localhost:" + port + uri;
+		return "https://newbchallenge.herokuapp.com"+uri;
 	}
 
 
