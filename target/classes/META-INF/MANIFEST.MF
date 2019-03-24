@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: b2wchallenge
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Leandro
+Implementation-Vendor-Id: com.br.newb
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/b2wchallenge
+Created-By: Maven Integration for Eclipse
+
