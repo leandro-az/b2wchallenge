@@ -75,7 +75,7 @@ Parâmetros (Query String)
 string: id (required)
 ```
 
-GET:  https://newbchallenge.herokuapp.com/api/plane/{name} **>>** Recupera Planeta Pelo Nome;
+GET:  https://newbchallenge.herokuapp.com/api/planetn/{name} **>>** Recupera Planeta Pelo Nome;
 
 ```
 Parâmetros (Query String)
