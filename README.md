@@ -33,7 +33,7 @@ Dentre as muitas maneiras de se apresentar e utilizar a aplicação.Uma delas se
 
 Baixar projeto >> Compilar >> testar a API REST utilizando alguma ferramenta externa como POSTMAN.
 
-Optei por disponibilizar a aplicação em um ambiente de deploy de aplicação freeware, acessível de diversas plataformas. Graças ao Swagger também foi possível documentar bem a aplicação MVC e disponibilizar uma área de testes facilitada, como pode-se verificar através da opção " planet-controller " acessado através do link:
+Optei por disponibilizar a aplicação em um ambiente de deploy de aplicação freeware, acessível de diversas plataformas. Graças ao Swagger também foi possível documentar bem a aplicação MVC e disponibilizar uma área de testes facilitada, como pode-se verificar na opção " planet-controller " acessado através do link:
 
 https://newbchallenge.herokuapp.com/swagger-ui.html
 
